@@ -1,9 +1,9 @@
 
 CREATIVE+CODE GENERAL LICENSE 1.0
 
-1.1 written by rosefloase <jadeharley0409@proton.me> 
+1.0 written by rosefloase <jadeharley0409@proton.me> 
 
-(C+CGL) 2024 - 2025
+(C+CGL) 2024 
 this license applies to itself.
 
 CREATIVE ITEMS (i.e., things displayed to the end user: strings, images, audio, visual design, and all similar content)
@@ -11,10 +11,10 @@ may ONLY be redistributed if credit is sourced to the original document.
 "redistrubiting" is the act of sharing original, unmodified items, or any work based off of creative items.
 training "generative AI", neural networks, large learning language models, or any machine learning algorithms off of creative items is prohibited this license.
 
-credit must be shown in a place obvious to all users: be it the index of a website, the first page of a novel, or a location very near to the redistributed content.
+credit must be shown in a place obvious to all users: be it the index of a website, or the first page of a novel.
 the format for credit is as follows:
 "redistributed from a C+CGL source: firstname lastname (username), <email@if.known>, https://url.to/original/content.html"
-all fields must be present if they are known. if content is redistributed from a website, a web url MUST be present.
+all fields must be present if they are known. a web url MUST be present.
 
 CODE (i.e., scripts, compiled/machine code, source code, and concepts applied in programing)
 is distributed under WTFPL 3.1 (https://github.com/yuu0007/wtfpl).
@@ -25,4 +25,4 @@ that is all.
 
 
 
--- redistributed from a C+CGL source: rosefloase, <jadeharley0409@proton.me>, https://thepersonever.net/c-cgl-1-1.txt --
+-- redistributed from a C+CGL source: rosefloase, <jadeharley0409@proton.me>, https://thepersonever.net/c-cgl-1-0.txt --
